@@ -1,0 +1,7 @@
+{
+    success: true,
+    policies: [
+        {id: 1, polNumber: '1001',    clientName: 'Jane Smith'},
+        {id: 2, polNumber: '1002', clientName: 'Dan Randall'}
+    ]
+}
